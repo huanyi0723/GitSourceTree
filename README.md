@@ -8,6 +8,8 @@ SourceTree的使用
 - ssh://git@pangtong.l99.com:19022/zhenh/androidbasecore.git
 - ssh://git@pangtong.l99.com:19022/zhenh/androidbaseenhance.git
 
+ssh://git@pangtong.l99.com:19022/zhenh/androidbasewidgetcore.git
+
 - 输入目标路径 点击确认
 
 - 3 删除仓库
